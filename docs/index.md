@@ -1,7 +1,5 @@
 # The Dialogue
-*by St. Catherine of Siena in 1370 AD*
-
-## Index
+*by St. Catherine of Siena in the year of our Lord 1370*
 
 ```{toctree}
 ---
@@ -17,10 +15,9 @@
    Ending Notes <ending_notes.md>
 ```
 
-## Original Sources
-[EWTN Library #1450](https://www.ewtn.com/catholicism/library/dialogue-1450)
-
-[Google Art Project](https://commons.wikimedia.org/wiki/File:Franceschini,_Baldassare_-_St_Catherine_of_Siena_-_Google_Art_Project.jpg)
-
 ## Transcription Notes
 None
+
+## Original Sources
+* [EWTN Library #1450](https://www.ewtn.com/catholicism/library/dialogue-1450)
+* [Google Art Project](https://commons.wikimedia.org/wiki/File:Franceschini,_Baldassare_-_St_Catherine_of_Siena_-_Google_Art_Project.jpg)
